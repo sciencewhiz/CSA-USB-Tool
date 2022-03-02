@@ -18,7 +18,8 @@ Limelight 2022.2.2,limelight_2022_2_2_release.zip,https://downloads.limelightvis
 FRC-Docs,docs-wpilib-org-en-latest.pdf,https://docs.wpilib.org/_/downloads/en/latest/pdf/,00000000000000000,false
 BalenaEtcher Portable,balenaEtcher-Portable-1.7.3.exe,https://github.com/balena-io/etcher/releases/download/v1.7.3/balenaEtcher-Portable-1.7.3.exe,003ef9497101bda77f18cd6583600c92,false
 Rev Hardware Client,REV-Hardware-Client-Setup-1.4.2.exe,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.4.2/REV-Hardware-Client-Setup-1.4.2.exe,112a883b9f189e9e9ee56900465d0628,false
-RevLib,REVLib-offline-v2022.1.1.zip,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2022.1.1/REVLib-offline-v2022.1.1.zip,9624efc3bee707c7cc332f260731730d,true
+RevLib Java C++ API,REVLib-offline-v2022.1.1.zip,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2022.1.1/REVLib-offline-v2022.1.1.zip,9624efc3bee707c7cc332f260731730d,true
+REVLib labVIEW API,REVLib-labVIEW-2022.0.0-0_windows-all.nipkg,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2022.0.0/REVLib-labVIEW-2022.0.0-0_windows_all.nipkg,d6f34c55708447778cf91c8fa02e71bd,false
 Rev PH Firmware,pneumatic_hub_22_0_4.revfw.dfu,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/ph-22.0.4/pneumatic_hub_22_0_4.revfw.dfu,b2a929910aa260523c96197304d40f85,false
 Rev PDH Firmware,power_distribution_hub_22_0_3.revfw.dfu,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/pdh-22.0.3/power_distribution_hub_22_0_3.revfw.dfu,5d3f090067c534f82806bb0f503a2ff9,false
 Rev Spark Max Firmware,SPARK-MAX-FW-v1.5.2.dfu,https://www.revrobotics.com/content/sw/max/firmware/SPARK-MAX-FW-v1.5.2.dfu,ff579777ba60c89a7eb4a86fe54732ab,false
